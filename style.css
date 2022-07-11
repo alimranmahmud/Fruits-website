@@ -55,3 +55,7 @@ section {
     background-image: linear-gradient(red, tomato);
 
 }
+
+.my-pic {
+    width: 400px;
+}
